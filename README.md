@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> This is a project that I learned about linter, HTML and css
+> This is my first project in Microverse and the objective for this project to use linter, github flow,documentation of repo. I created Hello-Microverse repo, cloned into local machine and implemented those tools.
 
 ## Built With
 
@@ -16,23 +16,21 @@
 
 
 To get a local copy up and running follow these simple example steps.
+1) Enter `git clone git@github.com:roshan-bajgain/Hello-Microverse.git` into terminal
+
+2) Open in browser to view site
+
 
 ### Prerequisites
+-code editor
 
-### Setup
 
-### Install
+## Authors
 
-### Usage
+👤 **Roshan Bajgain**
 
-### Run tests
-
-### Deployment
-
-👤 **Author2**
-
-- GitHub: [@gitroshan-bajgain](https://github.com/roshan-bajgain)
-- Twitter: [@twitterRoshanBajgain10](https://twitter.com/RoshanBajgain10)
+- GitHub: [@roshan-bajgain](https://github.com/roshan-bajgain)
+- Twitter: [@RoshanBajgain10](https://twitter.com/RoshanBajgain10)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/roshan-bazgain/)
 
 
