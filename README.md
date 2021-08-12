@@ -29,12 +29,16 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
+👤 **Author2**
+
+- GitHub: [@gitroshan-bajgain](https://github.com/roshan-bajgain)
+- Twitter: [@twitterRoshanBajgain10](https://twitter.com/RoshanBajgain10)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/roshan-bazgain/)
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
